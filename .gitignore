@@ -9,8 +9,6 @@ __pycache__
 .DS_Store
 .emacs.desktop*
 *.py[cod]
-.vscode
-.env
 .venv/*
 todesktop.json
 
@@ -52,3 +50,4 @@ src/interface/android/*.apk
 src/interface/android/*.apk.idsig
 src/interface/android/*.keystore
 src/interface/android/local.properties
+config.bat
